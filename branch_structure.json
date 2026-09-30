@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "update-travel-branding"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "update-travel-branding": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "update-travel-branding"
+  ]
+}
